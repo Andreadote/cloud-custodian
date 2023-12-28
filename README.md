@@ -79,7 +79,7 @@ prefix, its also available as a docker image.
 ```shell
 $ python3 -m venv custodian
 $ source custodian/bin/activate
-(custodian) $ pip install c7n
+(custodian) $ pip install c7n or pip install c7n-org
 ```
 
 
